@@ -1,0 +1,11 @@
+/*
+Theme Name: theme 
+Author: Ivchenko Sergey
+Description:  Responsive Theme
+Version: 1.0
+*/
+
+.wpseo-taxonomy-metabox-postbox, .wp-description-wrap, #wp-description-wrap, .term-description-wrap, .editor-block-list__layout, .term-parent-wrap{
+  display: none;
+}
+
